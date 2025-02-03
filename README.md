@@ -9,7 +9,7 @@
 ## Screenshots
 
 
-![Screenshot 1](C:\Users\Acer Aspire Vero\Desktop\Portfolio\Images\readme-img.jpg)
+![Screenshot 1](C:\Users\Acer Aspire Vero\Desktop\Portfolio_fr\readme-img.jpg)
 
 > note
 
