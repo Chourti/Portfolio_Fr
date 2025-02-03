@@ -6,14 +6,14 @@
   </a>
 </p>
 
-## Screenshots
 
-
-![Screenshot 1](C:\Users\Acer Aspire Vero\Desktop\Portfolio_fr\readme-img.jpg)
 
 > note
 
 ### 🏠 [Homepage](home)
+
+
+![Screenshot 1](readme-img.jpg)
 
 ### ✨ [Demo](https://chourti-portfolio.vercel.app)
 
