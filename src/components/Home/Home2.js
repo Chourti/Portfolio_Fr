@@ -19,8 +19,8 @@ function Home2() {
               Je me  <span className="purple"> Présente </span>
             </h1>
             <p className="home-about-body">
-              Je suis un jeune diplômé en informatique de <span className="purple"> l'École Marocaine des Sciences de l'Ingénieur (EMSI)</span>,
-              spécialisé en MIAGE. J'ai récemment terminé mon stage de fin d'études à l'Office National de l'Électricité et de l'Eau Potable (ONEE-BE)
+              Je suis un Ingénieur en informatique et reseaux de <span className="purple"> l'École Marocaine des Sciences de l'Ingénieur (EMSI)</span>,
+              Option MIAGE. J'ai récemment terminé mon stage de fin d'études à l'Office National de l'Électricité et de l'Eau Potable (ONEE-BE)
               <br />
               <br />Je maitrise
               <i>
@@ -31,11 +31,10 @@ function Home2() {
 
               <br />
              J'applique aussi aux opportunité de .
-              with <b className="purple">Data Sciences et Machine Learning</b> 
+               <b className="purple">Data Sciences et Machine Learning</b> 
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
                 </b>
               </i>
              
