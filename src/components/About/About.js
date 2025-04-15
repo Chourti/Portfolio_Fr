@@ -36,7 +36,7 @@ function About() {
         </Row>
         <h1 className="project-heading">
         <strong className="purple">Mes compétences </strong> 
-        Professionelle 
+        professionnelles
         </h1>
 
         <Techstack />
